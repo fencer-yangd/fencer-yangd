@@ -1,8 +1,8 @@
 # 欢迎来到我的 GitHub 个人主页
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fencer-yangd&show_icons=true&theme=dark)
+[](https://raw.githubusercontent.com/fencer-yangd/fencer-yangd/refs/heads/output/github-contribution-grid-snake.svg)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=fencer-yangd&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fencer-yangd&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fencer-yangd)](https://github.com/ryo-ma/github-profile-trophy)
 
