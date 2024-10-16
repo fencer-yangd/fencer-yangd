@@ -1,6 +1,6 @@
 # 欢迎来到我的 GitHub 个人主页
 
-[](https://raw.githubusercontent.com/fencer-yangd/fencer-yangd/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/fencer-yangd/fencer-yangd/refs/heads/output/github-contribution-grid-snake.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fencer-yangd&show_icons=true&theme=dark)
 
